@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Header = () => {
   return (
-    <div>
+    <div className="flex justify-center pb-10">
       <h1>This is the Header</h1>
     </div>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;
