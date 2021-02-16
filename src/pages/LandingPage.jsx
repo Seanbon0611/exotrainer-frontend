@@ -2,7 +2,7 @@ import React from "react";
 
 const LandingPage = () => {
   return (
-    <div className="grid h-full grid-cols-1 text-center">
+    <div className="grid grid-cols-1 text-center">
       <div className="flex justify-center">
         <div className="flex items-center justify-center w-4/5 bg-gray-400 border border-gray-900 h-72">
           <span>Image Goes here</span>
